@@ -1,0 +1,28 @@
+_repo: Underground-Treasures-How-and-Where-to-Find-Them-A-Key-for-the-Ready-Determination-of-All-the__53562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orton, James
+    alias: Orton, J. W. (James W.)
+    birthdate: 1830
+    deathdate: 1877
+    gutenberg_agent_id: '8571'
+    url: http://www.gutenberg.org/2009/agents/8571
+description: ''
+gutenberg_issued: '2016-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53562'
+  lccn: 06018892
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TN'
+- !lcsh 'Prospecting'
+- !lcsh 'Mineralogy, Determinative'
+- GITenberg
+title: "Underground Treasures: How and Where to Find Them\r\nA Key for the Ready Determination\
+  \ of All the Useful Minerals Within the United States"
+url: http://www.gutenberg.org/ebooks/53562
