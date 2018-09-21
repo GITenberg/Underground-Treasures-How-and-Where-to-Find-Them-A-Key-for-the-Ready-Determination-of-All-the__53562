@@ -1,5 +1,8 @@
 _repo: Underground-Treasures-How-and-Where-to-Find-Them-A-Key-for-the-Ready-Determination-of-All-the__53562
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53562-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Orton, James
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8571'
     url: http://www.gutenberg.org/2009/agents/8571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53562#Underground-Treasures-How-and-Where-to-Find-Them-A-Key-for-the-Ready-Determination-of-All-the_
 gutenberg_issued: '2016-11-20'
 gutenberg_type: Text
 identifiers:
